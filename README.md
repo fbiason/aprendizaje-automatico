@@ -43,5 +43,5 @@ Cierre: miércoles, 4 de junio de 2025, 23:59
 ├── reports/            # Informes generados, figuras, etc.
 ├── src/                # Código fuente del proyecto
 ├── requirements.txt    # Dependencias del proyecto
-└── setup.py           # Script de instalación del proyecto
+└── setup.py            # Script de instalación del proyecto
 
