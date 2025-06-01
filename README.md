@@ -33,7 +33,8 @@ Proporcione métricas de evaluación del modelo, como precisión, recall, F1-sco
 Interprete los resultados del modelo y ofrezca conclusiones finales sobre cómo su modelo abordó el problema formulado en la primera entrega.
 Esta entrega debe ser realizada en el repositorio GIT, incluyendo archivos de dataset, notebook, video y documentos.
 
-## Estructura del Proyecto
+# Estructura del Proyecto
+
 ├── data/               # Datos crudos y procesados
 ├── docs/               # Documentación del proyecto
 ├── models/             # Modelos entrenados y serializados
