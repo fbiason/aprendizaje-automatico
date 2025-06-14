@@ -45,3 +45,7 @@ Cierre: miércoles, 4 de junio de 2025, 23:59
 ├── requirements.txt    # Dependencias del proyecto
 └── setup.py            # Script de instalación del proyecto
 
+# Enlace de Google Colab
+https://colab.research.google.com/drive/141ELtuKipYpEhBI4YwGWT3W7wSna-sKT?usp=sharing
+
+# Enlace de Video Youtube
